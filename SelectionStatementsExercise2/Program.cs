@@ -25,7 +25,7 @@
                     Console.WriteLine("Reading - Everyone loves a good book!");
                     break;
               default:
-                    Console.WriteLine("Well that's a new one!");
+                    Console.WriteLine($"Well that's a new one! I'm sure {favSubject} is fun!");
                     break;
             }
         }
